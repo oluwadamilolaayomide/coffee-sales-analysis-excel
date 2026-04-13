@@ -1,7 +1,7 @@
 # Coffee Sales Dashboard Analysis (Excel)
 
 ## Overview
-This project analyzes coffee sales data from 2019–2022 using an interactive Excel dashboard.
+This project analyses coffee sales transactions from 2019–2022 using an interactive dashboard built in Excel.
 
 The goal is to understand sales performance, customer behavior and product profitability.
 
@@ -52,7 +52,7 @@ The goal is to understand sales performance, customer behavior and product profi
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.PNG)
+![Dashboard](dashboard_preview.png)
 
 ---
 
