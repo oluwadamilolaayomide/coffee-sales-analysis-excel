@@ -52,7 +52,7 @@ The goal is to understand sales performance, customer behavior and product profi
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard_preview.PNG)
 
 ---
 
